@@ -1,6 +1,5 @@
 ## Scrapy: GoodReads
-Using Scrapy to get GoodRead author's public profile.
-
+Python + Scrapy (+ Selenium) based web crawler that fetches book and author data from GoodReads.
 ## feature
 - Get all public profile
 - Using Scrapy
