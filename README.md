@@ -1,4 +1,4 @@
-## Scrapy： GoodReads
+## Scrapy: GoodReads
 Using Scrapy to get GoodRead author's public profile.
 
 ## feature
